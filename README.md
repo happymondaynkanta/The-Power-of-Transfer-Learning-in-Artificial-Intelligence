@@ -8,7 +8,11 @@ ML teaches a machine how to make inferences and decisions based on past experien
 
 ## Deep Learning 
 Deep Learning ia an ML technique. It teaches a machine to process inputs through layers in order to classify, infer and predict the outcome.
-Neural Networks : Neural Networks work on the similar principles as of Human Neural cells. They are a series of algorithms that captures the relationship between various underying variabes and processes the data as a human brain does.
-Natural Language Processingc: NLP is a science of reading, understanding, interpreting a language by a machine. Once a machine understands what the user intends to communicate, it responds accordingly.
+
+## Neural Networks 
+Neural Networks work on the similar principles as of Human Neural cells. They are a series of algorithms that captures the relationship between various underying variabes and processes the data as a human brain does.
+
+## Natural Language Processingc
+NLP is a science of reading, understanding, interpreting a language by a machine. Once a machine understands what the user intends to communicate, it responds accordingly.
 Computer Vision : Computer vision algorithms tries to understand an image by breaking down an image and studying different parts of the objects. This helps the machine classify and learn from a set of images, to make a better output decision based on previous observations.
 Cognitive Computing : Cognitive computing algorithms try to mimic a human brain by anaysing text/speech/images/objects in a manner that a human does and tries to give the desired output.
