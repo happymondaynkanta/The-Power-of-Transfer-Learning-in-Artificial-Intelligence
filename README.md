@@ -12,7 +12,7 @@ Deep Learning ia an ML technique. It teaches a machine to process inputs through
 ## Neural Networks 
 Neural Networks work on the similar principles as of Human Neural cells. They are a series of algorithms that captures the relationship between various underying variabes and processes the data as a human brain does.
 
-## Natural Language Processingc
+## Natural Language Processing
 NLP is a science of reading, understanding, interpreting a language by a machine. Once a machine understands what the user intends to communicate, it responds accordingly.
 
 ## Computer Vision
