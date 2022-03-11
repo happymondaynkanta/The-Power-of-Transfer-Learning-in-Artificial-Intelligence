@@ -21,4 +21,6 @@ Computer vision algorithms tries to understand an image by breaking down an imag
 ## Cognitive Computing 
 Cognitive computing algorithms try to mimic a human brain by anaysing text/speech/images/objects in a manner that a human does and tries to give the desired output.
 
-
+## Transfer learning case studies
+### Image Recognition and Classification
+This repository begins with an introduction to the task of image classification followed by the implementation of some of the popular, state-of-the-art deep learning models on diverse image classification problems.
