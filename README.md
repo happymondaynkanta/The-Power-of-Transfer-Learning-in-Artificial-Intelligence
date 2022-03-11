@@ -20,3 +20,5 @@ Computer vision algorithms tries to understand an image by breaking down an imag
 
 ## Cognitive Computing 
 Cognitive computing algorithms try to mimic a human brain by anaysing text/speech/images/objects in a manner that a human does and tries to give the desired output.
+
+
